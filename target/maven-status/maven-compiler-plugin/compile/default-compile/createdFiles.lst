@@ -1,0 +1,5 @@
+com/microservice/service/discovery/client/Application.class
+com/microservice/service/discovery/client/model/Customer$CustomerBuilder.class
+com/microservice/service/discovery/client/controller/CustomerController.class
+com/microservice/service/discovery/client/controller/HelloWorldController.class
+com/microservice/service/discovery/client/model/Customer.class
